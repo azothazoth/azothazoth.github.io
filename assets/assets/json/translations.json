@@ -39,6 +39,22 @@
     "en": "Close",
     "zh": "離開"
   },
+  "chinese": {
+    "en": "Chinese",
+    "zh": "中文"
+  },
+  "english": {
+    "en": "English",
+    "zh": "英文"
+  },
+  "skip": {
+    "en": "Skip",
+    "zh": "跳過"
+  },
+  "fullscreen": {
+    "en": "Go Full Screen ",
+    "zh": "進入全螢幕"
+  },
   "audrey_info": {
     "en": "Deeply troubled by her perverse desires, she has a complex personality that's both classy and freaky. She is elegant and charming, but in private she loves wearing leather gloves and wielding a whip. She gazes at her men with a cold yet loving look, as they are all her precious toys. She enjoys engaging in cruel yet intimate BDSM games. She might look sweet, but trust me, she's got this insane charm that makes her seem like an angel from hell. And when she speaks, her words are laced with a dark sense of humor that's both twisted and hilarious.",
     "zh": "一位深受變態慾望困擾的女性，她性格矛盾複雜，優雅可人，私下卻愛戴皮革手套與鞭子，她喜歡用無情又充滿愛的目光注視著她的男人們，男人們都是她的寶貝玩具，她喜歡進行殘忍又溫馨的BDSM遊戲。她的面容甜美，卻散發出一種瘋狂的魅力，彷彿是來自地獄的天使。當她打開口，言語之中流露出的是一種嗜血般的黑色幽默。"
@@ -76,7 +92,7 @@
     "zh": "assets/images/logo_red.png"
   },
   "image_path_flame_test": {
-    "en": "logo_white.png",
+    "en": "play_button_E.png",
     "zh": "play_button.png"
   }
 }
